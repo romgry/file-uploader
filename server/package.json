@@ -1,0 +1,15 @@
+{
+  "name": "file-uploader-server",
+  "version": "1.0.0",
+  "description": "simple express middleware for file upload testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gary Romanov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6"
+  }
+}

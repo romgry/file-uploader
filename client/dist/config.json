@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "port": "8000",
+    "path": "/upload",
+    "method": "POST",
+    "sizeInBytes": 3000000,
+    "fileName": "dummy.txt"
+}

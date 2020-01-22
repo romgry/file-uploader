@@ -1,0 +1,22 @@
+{
+  "name": "file-upload-runner",
+  "version": "1.0.0",
+  "description": "A simple service for file upload testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "build": "tsc",
+    "prod": "node ./dist/index.js"
+  },
+  "author": "Gary Romanov",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "2.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.7",
+    "@types/form-data": "2.5.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
