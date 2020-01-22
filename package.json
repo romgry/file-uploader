@@ -1,0 +1,26 @@
+{
+  "name": "file-uploader",
+  "version": "1.0.0",
+  "description": "a simple node service for client to server file upload testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romgry/file-uploader.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "file-upload",
+    "http",
+    "post"
+  ],
+  "author": "Gary Romanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romgry/file-uploader/issues"
+  },
+  "homepage": "https://github.com/romgry/file-uploader#readme"
+}
